@@ -2,7 +2,7 @@
 
 # 🤖 AuraAssist — Personal AI Assistant for Developers & Teams
 
-# 🤖 Nexus AI Assistant - 100% FREE AI Assistant
+# 🤖 Jarwish AI Assistant - 100% FREE AI Assistant
 
 > **Completely Free AI Assistant** - No payments, no subscriptions, no hidden costs
 
